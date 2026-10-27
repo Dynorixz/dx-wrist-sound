@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phone_left_title">ВЫ ОСТАВИЛИ</string>
+    <string name="phone_left_subject">ТЕЛЕФОН!</string>
+    <string name="phone_left_subtitle">Связь с телефоном потеряна</string>
+    <string name="phone_left_dismiss">Понятно</string>
+    <string name="phone_left_accessibility_title">Вы оставили телефон</string>
+</resources>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760" role="img" aria-labelledby="title desc">
+<title id="title">DX • Wrist Sound</title><desc id="desc">Звук телефона под контролем часов. Схематическая иллюстрация приложений Android и Wear OS.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#091216"/><stop offset="1" stop-color="#111922"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#74e0c4" stop-opacity=".19"/><stop offset="1" stop-color="#74e0c4" stop-opacity="0"/></radialGradient>
+<linearGradient id="metal" x2="1" y2="1"><stop stop-color="#526467"/><stop offset=".25" stop-color="#1a272b"/><stop offset=".65" stop-color="#667b7a"/><stop offset="1" stop-color="#111c20"/></linearGradient>
+<linearGradient id="face" x2="1" y2="1"><stop stop-color="#1b3433"/><stop offset="1" stop-color="#0b171b"/></linearGradient>
+<pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse"><path d="M64 0H0V64" fill="none" stroke="#9be8d0" stroke-opacity=".035"/></pattern>
+</defs>
+<rect width="1600" height="760" rx="36" fill="url(#bg)"/><rect width="1600" height="760" rx="36" fill="url(#grid)"/>
+<ellipse cx="1240" cy="370" rx="470" ry="440" fill="url(#glow)"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<rect x="76" y="68" width="58" height="42" rx="13" fill="#9be8d0"/><text x="105" y="97" text-anchor="middle" fill="#0c211d" font-size="23" font-weight="800">DX</text>
+<text x="154" y="96" fill="#d4e4e1" font-size="18" letter-spacing="3">WRIST SOUND</text>
+<rect x="76" y="163" width="240" height="35" rx="17" fill="#9be8d0" fill-opacity=".08" stroke="#9be8d0" stroke-opacity=".22"/><circle cx="95" cy="181" r="4" fill="#9be8d0"/><text x="109" y="187" fill="#9be8d0" font-size="13" font-weight="600" letter-spacing="2">ANDROID + WEAR OS</text>
+<text x="72" y="282" fill="#f5faf8" font-size="72" font-weight="700" letter-spacing="-3">Звук телефона.</text>
+<text x="72" y="367" fill="#9be8d0" font-size="72" font-weight="700" letter-spacing="-3">Под контролем</text>
+<text x="72" y="452" fill="#9be8d0" font-size="72" font-weight="700" letter-spacing="-3">часов.</text>
+<text x="78" y="515" fill="#a8b9ba" font-size="22">Часы на руке — телефон вибрирует.</text>
+<text x="78" y="550" fill="#a8b9ba" font-size="22">Сняли часы — звонок снова слышно.</text>
+<path d="M78 598h535" stroke="#a8c4bd" stroke-opacity=".17"/>
+<text x="78" y="638" fill="#d9e5e3" font-size="15">ДАТЧИК НОШЕНИЯ</text><circle cx="270" cy="633" r="3" fill="#718c86"/><text x="289" y="638" fill="#d9e5e3" font-size="15">УМНЫЕ ПРОФИЛИ</text><circle cx="477" cy="633" r="3" fill="#718c86"/><text x="496" y="638" fill="#d9e5e3" font-size="15">ОПОВЕЩЕНИЯ</text>
+<g transform="translate(879 125) rotate(-8 133 250)">
+<rect width="264" height="520" rx="39" fill="#080e11" stroke="#647a7c" stroke-width="3"/>
+<rect x="9" y="9" width="246" height="502" rx="32" fill="#152126"/>
+<rect x="87" y="16" width="90" height="23" rx="12" fill="#080e11"/>
+<text x="30" y="81" fill="#f1f7f5" font-size="15" font-weight="600">DX • Wrist Sound</text>
+<text x="30" y="114" fill="#9bacad" font-size="11">ТЕЛЕФОН</text>
+<rect x="22" y="137" width="220" height="188" rx="23" fill="#9be8d0"/>
+<path d="M108 177h45v56h-45z M99 183l-8 12 8 12 M162 183l8 12-8 12" fill="none" stroke="#12362b" stroke-width="3" stroke-linejoin="round"/>
+<text x="132" y="269" text-anchor="middle" fill="#12362b" font-size="29" font-weight="700">Вибрация</text>
+<text x="132" y="296" text-anchor="middle" fill="#2b594a" font-size="12">Часы сейчас на руке</text>
+<rect x="22" y="341" width="220" height="66" rx="18" fill="#26373a"/>
+<circle cx="45" cy="374" r="4" fill="#9be8d0"/><text x="61" y="370" fill="#e1eeeb" font-size="12">Автоматизация</text><text x="61" y="388" fill="#9be8d0" font-size="11">Активна</text>
+<path d="M31 448h196 M31 462h124" stroke="#637b7a" stroke-width="5" stroke-linecap="round" opacity=".35"/>
+<rect x="96" y="492" width="72" height="4" rx="2" fill="#b4c5c2"/>
+</g>
+<g transform="translate(1230 185) rotate(8 112 175)">
+<rect x="57" y="-36" width="110" height="391" rx="35" fill="#354342"/><path d="M75-21v359M149-21v359" stroke="#596b66" stroke-width="2" stroke-dasharray="3 7"/>
+<rect x="218" y="132" width="12" height="43" rx="5" fill="#879e99"/>
+<circle cx="112" cy="164" r="124" fill="url(#metal)"/><circle cx="112" cy="164" r="114" fill="#071014"/><circle cx="112" cy="164" r="105" fill="url(#face)"/>
+<path d="M39 121a87 87 0 1 1-6 76" fill="none" stroke="#9be8d0" stroke-width="3" stroke-linecap="round"/>
+<text x="112" y="111" fill="#dae9e3" text-anchor="middle" font-size="16">09:41</text>
+<circle cx="112" cy="147" r="8" fill="#9be8d0"/><text x="112" y="188" fill="#effbf7" text-anchor="middle" font-size="22" font-weight="700">На руке</text>
+<text x="112" y="213" fill="#9abbb0" text-anchor="middle" font-size="11">Мониторинг включён</text>
+<path d="M98 237h28" stroke="#9be8d0" stroke-width="3" stroke-linecap="round"/>
+</g>
+<rect x="1178" y="604" width="327" height="62" rx="18" fill="#18262a" stroke="#425c56"/><circle cx="1204" cy="635" r="5" fill="#9be8d0"/><text x="1222" y="632" fill="#d5e7e0" font-size="14">Звук часов выбираете вы</text><text x="1222" y="652" fill="#86a399" font-size="12">DX сохраняет системный режим</text>
+<text x="1517" y="717" text-anchor="end" fill="#738c86" font-size="12" letter-spacing="2">DYNORIXZ / 1.2.4</text>
+</g></svg>

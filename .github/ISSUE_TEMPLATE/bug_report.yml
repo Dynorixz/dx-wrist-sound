@@ -1,0 +1,23 @@
+name: Ошибка
+description: Сообщить о проблеме в DX • Wrist Sound
+title: "[Ошибка]: "
+body:
+  - type: textarea
+    id: devices
+    attributes:
+      label: Устройства и версии
+      description: Телефон, часы, Android / Wear OS, версия DX и пара APK — Release или Compatible.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Как воспроизвести
+      description: Что сделали, что ожидали и что произошло.
+    validations:
+      required: true
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: Диагностика DX
+      description: Состояние датчика, доступов и относящиеся к ошибке события. Удалите личные данные.

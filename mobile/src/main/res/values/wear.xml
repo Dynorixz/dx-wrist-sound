@@ -1,0 +1,1 @@
+<resources xmlns:tools="http://schemas.android.com/tools"><!-- Discovered by Play services via resource name. --><string-array name="android_wear_capabilities" tools:ignore="UnusedResources"><item>dx_wrist_phone</item></string-array></resources>

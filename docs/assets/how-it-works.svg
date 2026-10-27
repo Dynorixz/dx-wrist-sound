@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="350" viewBox="0 0 1500 350" role="img" aria-labelledby="title">
+<title id="title">Три сценария DX • Wrist Sound</title>
+<rect width="1500" height="350" rx="24" fill="#0d171c"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<g transform="translate(22 22)">
+<rect width="473" height="306" rx="20" fill="#142b29" stroke="#36584c"/>
+<text x="28" y="40" fill="#80ab9c" font-size="13" letter-spacing="2">01 / ЧАСЫ НА РУКЕ</text>
+<circle cx="70" cy="102" r="27" fill="none" stroke="#9be8d0" stroke-width="2"/><path d="M60 102l7 7 15-18" stroke="#9be8d0" stroke-width="3" fill="none"/>
+<text x="28" y="182" fill="#a9efd7" font-size="33" font-weight="700">Телефон вибрирует</text>
+<text x="28" y="224" fill="#a8beb7" font-size="18">Звонок не отвлекает окружающих.</text>
+<text x="28" y="254" fill="#a8beb7" font-size="18">Режим можно настроить под себя.</text>
+</g>
+<g transform="translate(513 22)">
+<rect width="473" height="306" rx="20" fill="#202336" stroke="#424960"/>
+<text x="28" y="40" fill="#939dc2" font-size="13" letter-spacing="2">02 / ЧАСЫ СНЯТЫ</text>
+<path d="M49 95h12l16-12v38l-16-12H49z M87 91q17 11 0 23" fill="none" stroke="#bbc6ff" stroke-width="3" stroke-linejoin="round"/>
+<text x="28" y="182" fill="#c7d0ff" font-size="33" font-weight="700">Телефон со звуком</text>
+<text x="28" y="224" fill="#aab1cb" font-size="18">Включается слышимый звонок.</text>
+<text x="28" y="254" fill="#aab1cb" font-size="18">Или восстанавливается ваш уровень.</text>
+</g>
+<g transform="translate(1004 22)">
+<rect width="474" height="306" rx="20" fill="#30251f" stroke="#644e3d"/>
+<text x="28" y="40" fill="#bd9a7e" font-size="13" letter-spacing="2">03 / ТЕЛЕФОН ОСТАЛСЯ ПОЗАДИ</text>
+<path d="M70 77l27 46H43z" fill="none" stroke="#f1c28b" stroke-width="2" stroke-linejoin="round"/><path d="M70 92v13" stroke="#f1c28b" stroke-width="3" stroke-linecap="round"/><circle cx="70" cy="113" r="2" fill="#f1c28b"/>
+<text x="28" y="182" fill="#f4cc9d" font-size="33" font-weight="700">Часы предупредят</text>
+<text x="28" y="224" fill="#c4af9f" font-size="18">Окно над циферблатом.</text>
+<text x="28" y="254" fill="#c4af9f" font-size="18">Русский голос или мелодия.</text>
+</g></g></svg>
