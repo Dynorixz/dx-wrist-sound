@@ -5,7 +5,7 @@ Google Material Symbols Outlined (`watch`, `settings`, `monitor_heart`, and `inf
 converted from the official SVG assets into Android vector drawables.
 
 Copyright Google LLC. Licensed under the Apache License, Version 2.0.
-The license is included in `LICENSE-MATERIAL-SYMBOLS.txt`.
+The license is included in [docs/third-party/material-symbols-apache-2.0.txt](docs/third-party/material-symbols-apache-2.0.txt).
 
 Sources:
 
